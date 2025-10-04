@@ -72,7 +72,7 @@ describe("HTML Template", () => {
 
   test("should use default title if not provided", () => {
     const page = createHTMLPage("<p>Test</p>");
-    assert.ok(page.includes("Markdown Processor"));
+    assert.ok(page.includes("Remark Deflist Revisited"));
   });
 
   test("should include CSS styles", () => {
