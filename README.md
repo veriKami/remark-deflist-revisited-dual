@@ -108,10 +108,10 @@ This project is Open Source and available under the MIT License
 [Remark]: https://remark.js.org
 
 [Codeflow Badge]: https://developer.stackblitz.com/img/open_in_codeflow.svg
-[Codeflow]: https:///pr.new/veriKami/remark-deflist-revisited-dual
+[Codeflow]: https:///pr.new/veriKami/remark-deflist-revisited-dual?startScript=start
 
 [StackBlitz Badge]: https://developer.stackblitz.com/img/open_in_stackblitz.svg
-[StackBlitz]: https://stackblitz.com/github/veriKami/remark-deflist-revisited-dual
+[StackBlitz]: https://stackblitz.com/github/veriKami/remark-deflist-revisited-dual?startScript=start
 
 [Codesandbox Badge]: https://codesandbox.io/static/img/play-codesandbox.svg
 [Codesandbox]: https://codesandbox.io/p/github/veriKami/remark-deflist-revisited-dual
