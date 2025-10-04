@@ -23,10 +23,10 @@
     "node": ">=20.0.0"
   },
   "scripts": {
-    "dev": "wrangler dev",
-    "deploy": "wrangler deploy",
     "start": "node server.js",
-    "test": "node test.js"
+    "test": "node test.js",
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
   },
   "dependencies": {
     "@verikami/remark-deflist-revisited": "^0.6.4",
