@@ -9,6 +9,16 @@ This project demonstrates two ways to use the **`@verikami/remark-deflist-revisi
 
 Both implementations provide the exact same functionality and user interface, showcasing the module's versatility across different JavaScript runtimes.
 
+## Interactive Start
+
+[![Codeflow][Codeflow Badge]][Codeflow]
+[![StackBlitz][StackBlitz Badge]][StackBlitz]
+[![Codesandbox][Codesandbox Badge]][Codesandbox]
+
+## Cloudflare Worker Deploy
+
+[![Cloudflare][Cloudflare Badge]][Cloudflare]
+
 ## Features
 
 - **Dual Implementation**: Side-by-side examples for Node.js (`server.js`) and Cloudflare Workers (`worker.js`).
@@ -85,16 +95,6 @@ project/
 - **`worker.js`** → The entry point for the Cloudflare Workers environment. Uses `import ... assert { type: "text" }` to bundle assets at build time.
 - **`lib/processor.js`** → The core markdown-to-HTML conversion logic is shared between both implementations.
 - **`lib/template.js`** → A simple, universal function that takes content and CSS to produce an HTML page. It has no environment-specific code.
-
-## Interactive Server Test
-
-[![Codeflow][Codeflow Badge]][Codeflow]
-[![StackBlitz][StackBlitz Badge]][StackBlitz]
-[![Codesandbox][Codesandbox Badge]][Codesandbox]
-
-## Cloudflare Worker Deploy
-
-[![Cloudflare][Cloudflare Badge]][Cloudflare]
 
 ## License
 
