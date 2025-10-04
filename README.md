@@ -1,8 +1,6 @@
 # Remark Deflist Revisited °// Dual Implementation
 
-**[Remark Deflist Revisited][module]** is a **[Remark]** plugin that enhances the standard `remark-deflist` with improved support for nested definition lists.
-
-This project demonstrates two ways to use the **`@verikami/remark-deflist-revisited`** module in a live, interactive environment:
+**[Remark Deflist Revisited][module]** is a **[Remark]** plugin that enhances the standard `remark-deflist` with improved support for nested definition lists. This project demonstrates two ways to use the **`@verikami/remark-deflist-revisited`** module in a live, interactive environment:
 
 1. **`server.js`** → A classic Node.js HTTP server.
 2. **`worker.js`** → A modern Cloudflare Worker.
