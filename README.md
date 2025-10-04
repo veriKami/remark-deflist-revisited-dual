@@ -1,4 +1,4 @@
-# Remark Deflist Revisited °// Dual Implementation Example
+# Remark Deflist Revisited °// Dual Implementation
 
 **[Remark Deflist Revisited][module]** is a **[Remark]** plugin that enhances the standard `remark-deflist` with improved support for nested definition lists.
 
