@@ -3,9 +3,6 @@ name = "verikami-rdr-worker"
 main = "worker.js"
 compatibility_date = "2025-10-04"
 
-# [build]
-# command = "pnpm install"
-
 [dev]
 ip = "127.0.0.1"
 port = 8787
